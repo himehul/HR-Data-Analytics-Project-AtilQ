@@ -31,7 +31,6 @@ This project focuses on building a Power BI Dashboard for analyzing employee dat
 \
 ![Template 1](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/ba80cab3-c76c-4194-8664-282191f4850f)
 \
-\
 2. **Data Transformation with Power Query:**
    Applied transformations, including header promotion, unpivoting, and other data cleaning processes.
 \
