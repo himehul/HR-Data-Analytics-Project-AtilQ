@@ -28,25 +28,37 @@ This project focuses on building a Power BI Dashboard for analyzing employee dat
 1. **Data Loading and Duplication:**
    Loaded the employee data and created a duplicate for use as a format template for future entries.
 \
-\
 ![Template 1](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/ba80cab3-c76c-4194-8664-282191f4850f)
+
+\
+
+2. **Data Transformation with Power Query:**
+   Applied transformations, including header promotion, unpivoting, and other data cleaning processes.
+\
 ![Temp 2](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/c56f1626-27e6-4e80-962c-05829e0a1c33)
 \
+3. **Parameter Creation:**
+Implemented parameters for dynamic data filtering based on different months.
 \
-3. **Data Transformation with Power Query:**
-   - Applied transformations, including header promotion, unpivoting, and other data cleaning processes.
+![Parameter 3](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/fe9873dc-78b2-4b38-b261-45edb4cf939d)
 
-4. **Parameter Creation:**
-   - Implemented parameters for dynamic data filtering based on different months.
+\
+4. **Dynamic Data Transformation:**
+ Developed a function, "GetData," to dynamically transform data and accommodate new entries seamlessly.
+\
 
-5. **Dynamic Data Transformation:**
-   - Developed a function, "GetData," to dynamically transform data and accommodate new entries seamlessly.
+![Create Function 5](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/a2aad3cd-eea3-4ec3-8461-b4cd6afd9c5a)
+![Adding Column Create Function 6](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/0bc423d7-0906-4895-b955-69088b00c448)
 
-6. **Column Deletion:**
-   - Removed unnecessary columns to streamline the dataset.
+\
+5. **Column Deletion:**
+  Removed unnecessary columns to streamline the dataset.
+\
+![7 Deleted unessary columns](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/818c07ce-fe7a-4641-8f89-4f95f98252ea)
 
-7. **Loading Data to Power BI:**
-   - Successfully loaded the transformed data into Power BI for further analysis.
+\
+8. **Loading Data to Power BI:**
+ Successfully loaded the transformed data into Power BI for further analysis.
 
 ## Metrics Creation Using DAX
 
