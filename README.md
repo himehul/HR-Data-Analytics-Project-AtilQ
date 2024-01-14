@@ -36,35 +36,30 @@ This project focuses on building a Power BI Dashboard for analyzing employee dat
 \
 \
 ![Temp 2](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/c56f1626-27e6-4e80-962c-05829e0a1c33)
-\
-\
+#
 3. **Parameter Creation:**
 Implemented parameters for dynamic data filtering based on different months.
 \
 \
 ![Parameter 3](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/fe9873dc-78b2-4b38-b261-45edb4cf939d)
-\
-\
+#
 4. **Dynamic Data Transformation:**
  Developed a function, "GetData," to dynamically transform data and accommodate new entries seamlessly.
 \
 \
-\
 ![Create Function 5](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/a2aad3cd-eea3-4ec3-8461-b4cd6afd9c5a)
 ![Adding Column Create Function 6](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/0bc423d7-0906-4895-b955-69088b00c448)
-\
-\
+#
 5. **Column Deletion:**
   Removed unnecessary columns to streamline the dataset.
 \
 \
 ![7 Deleted unessary columns](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/818c07ce-fe7a-4641-8f89-4f95f98252ea)
-\
-\
+#
 8. **Loading Data to Power BI:**
  Successfully loaded the transformed data into Power BI for further analysis.
-\
-\
+#
+#
 ## Metrics Creation Using DAX
 
 7. **Working Days Measures:**
