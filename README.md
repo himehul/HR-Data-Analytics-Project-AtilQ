@@ -118,17 +118,20 @@ The completed dashboard provides a comprehensive overview, showcasing metrics re
 
 1. **Identifying Employee with 0% Presence:**
    - Through our analysis, it was revealed that Ayanna Atkins is an employee with 0% presence in the month of June 2022.
+   \
 ![Ayana Atkins](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/55668d13-2a44-4740-8028-51d4dbb050d8)
-
+#
 2. **Trends in Presence Percentage:**
    - The area charts illustrate a declining trend in overall presence percentage, attributed to an increase in both Work From Home (WFH) percentage and Sick Leave percentage.
    - A plausible explanation for this trend could be the warmer temperatures, potentially leading to an increase in employee illnesses, prompting a preference for working from home.
+\
 ![Conclusion 2](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/068a1f2e-5ba0-44d3-9e4d-e2a2b0aae4b0)
-
+#
 3. **Strategic Insights for Team Meetings:**
    - Analyzing the data by day of the week, it is evident that Thursday and Friday are the days with the highest incidence of employees opting to work from home.
-   - With detailed percentages, it can be inferred that 15% of the workforce chooses to work from home on Fridays.
+   - With detailed analysis, it can be inferred that only 85% of the workforce is doing Work from Office on Fridays.
    - Consequently, for maximum attendance in team meetings, AtiQs Technologies may consider scheduling them on Mondays, when the employee presence percentage is at its peak.
+\
 ![Concluion3](https://github.com/himehul/HR-Data-Analytics-Project--AtilQ/assets/139626006/2b7b5258-1d4e-4cb5-a84e-00171a165bdf)
-
+#
 In conclusion, the insights derived from this analysis provide valuable information for strategic decision-making, allowing AtiQs Technologies to optimize team collaboration and address factors influencing employee attendance and work preferences. The detailed examination of individual cases, trends, and strategic considerations contributes to a holistic understanding of the dynamics within the organization.
